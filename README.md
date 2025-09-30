@@ -45,5 +45,5 @@
 
 ## 📊 Mis estadísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loretormr&show_icons=true&theme=radical" />
 </p>
