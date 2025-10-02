@@ -5,8 +5,10 @@
 </h1>
 
 
-<p align="center">
-  🚀 Desarrolladora Fullstack apasionada por la tecnología, la programación y la creatividad.
+<p align="center">  
+  🚀 Desarrolladora Fullstack en proceso  
+  <br><br>
+  <img src="https://i.gifer.com/ZZ5H.gif" width="50"/>  
 </p>
 
 ---
